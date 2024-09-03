@@ -1,6 +1,14 @@
 # Bootstrap Natur Project
 
-<h2>Kullanılan Teknolojiler</h2>
+Nature Project made with bootstrap
 
-<p>HTML5 CSS3 BOOTSTRAP</p>
+## Technologies
 
+....
+
+HTML5 CSS3 BOOTSTRAP
+
+<br>
+<br>
+<br>
+<img src="/img/ekrankaydı.gif">
